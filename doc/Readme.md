@@ -1,2 +1,2 @@
 Carpeta con archivos de texto
-Actividad 11
+Actividad 6
